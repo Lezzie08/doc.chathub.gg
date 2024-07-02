@@ -1,6 +1,6 @@
 # ChatHub AI service
 
-**ChatHub AI Service** is a cloud-based service that provides access to large language models and other AI services. It is designed to be used in conjunction with the ChatHub extension and [web app](https://app.chathub.gg).
+**ChatHub AI Service** is a cloud-based service that provides access to large language models and other AI services. It is designed to be used in conjunction with the ChatHub extension and [web app](https://app.chathub.gg/?utm_source=doc).
 
 ## Basic Models
 

@@ -32,7 +32,24 @@ export default defineConfig({
     sidebar: [
       {
         text: "Overview",
-        items: [{ text: "Installation", link: "/" }],
+        items: [
+          { text: "Installation", link: "/" },
+          { text: "Web App", link: "/webapp" },
+        ],
+      },
+      {
+        text: "Membership",
+        items: [
+          { text: "Introduction", link: "/membership/" },
+          { text: "Lifetime", link: "/membership/lifetime" },
+          { text: "Subscription", link: "/membership/subscription" },
+        ],
+      },
+      {
+        text: "ChatHub AI Service",
+        items: [
+          { text: "Introduction", link: "/cloud/" },
+        ],
       },
       {
         text: "Premium Features",
@@ -40,10 +57,6 @@ export default defineConfig({
           { text: "Web Access", link: "/premium-features/web-access" },
           { text: "Chrome Side Panel", link: "/premium-features/side-panel" },
         ],
-      },
-      {
-        text: "ChatHub AI Service",
-        items: [{ text: "Introduction", link: "/cloud/" }],
       },
       {
         text: "Custom Chatbots",
