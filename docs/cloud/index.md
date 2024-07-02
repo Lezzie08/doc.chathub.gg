@@ -11,6 +11,7 @@
 - Llama 2 ✅
 - Llama 3 ✅
 - Google Gemma ✅
+- Google Gemma 2 ✅
 - Perplexity Sonar Online ✅
 - Qwen 1.5 72B ✅
 - Yi 34B ✅
@@ -20,7 +21,6 @@
 - GPT-4o ✅
 - GPT-4 Turbo ✅
 - Claude 3.5 Sonnet ✅
-- Claude 3 Sonnet ✅
 - Claude 3 Opus ✅
 - Gemini 1.5 Pro ✅
 - Mixtral 8x22B ✅
@@ -30,3 +30,4 @@
 - WizardLM-2 8x22B ✅
 - Qwen2 72B ✅
 - Qwen 1.5 110B ✅
+- Yi-Large ✅
