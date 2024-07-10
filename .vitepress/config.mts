@@ -54,6 +54,7 @@ export default defineConfig({
       {
         text: "Premium Features",
         items: [
+          { text: "Code Preview", link: "/premium-features/code-preview" },
           { text: "Web Access", link: "/premium-features/web-access" },
           { text: "Chrome Side Panel", link: "/premium-features/side-panel" },
         ],
