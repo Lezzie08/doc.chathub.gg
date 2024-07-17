@@ -52,7 +52,7 @@ export default defineConfig({
       {
         text: "ChatHub AI Service",
         items: [
-          { text: "Introduction", link: "/cloud/" },
+          { text: "Models", link: "/cloud/" },
         ],
       },
       {
