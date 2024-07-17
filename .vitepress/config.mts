@@ -27,6 +27,10 @@ export default defineConfig({
   themeConfig: {
     logo: "https://chathub.gg/logo.png",
 
+    editLink: {
+      pattern: 'https://github.com/chathub-dev/doc.chathub.gg/edit/main/docs/:path'
+    },
+
     nav: [{ text: "Guides", link: "/" }],
 
     sidebar: [
