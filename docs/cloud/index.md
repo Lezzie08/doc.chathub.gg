@@ -24,6 +24,7 @@
 
 | **Model** <img width=150 /> | **Provider** <img width=100 /> |
 | --- | --- |
+| **GPT-4o mini** | OpenAI |
 | **GPT-3.5** | OpenAI |
 | **Claude 3 Haiku** | Anthropic |
 | **Gemini 1.0 Pro** | Google |
