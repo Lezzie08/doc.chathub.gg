@@ -10,6 +10,7 @@
 | **GPT-4 Turbo** | OpenAI |
 | **Claude 3.5 Sonnet** | Anthropic |
 | **Claude 3 Opus** | Anthropic |
+| **Llama 3.1 405B** | Meta |
 | **Gemini 1.5 Pro** | Google |
 | **Mixtral 8x22B** | Mistral |
 | **Mistral Medium** | Mistral |
@@ -27,9 +28,9 @@
 | **GPT-4o mini** | OpenAI |
 | **GPT-3.5** | OpenAI |
 | **Claude 3 Haiku** | Anthropic |
+| **Llama 3.1 70B** | Meta |
+| **Llama 3.1 8B** | Meta |
 | **Gemini 1.0 Pro** | Google |
-| **Llama 2 70B** | Meta |
-| **Llama 3 70B** | Meta |
 | **Mixtral 8x7B** | Mistral |
 | **Gemma 1** | Google |
 | **Gemma 2** | Google |
