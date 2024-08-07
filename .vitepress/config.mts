@@ -71,7 +71,6 @@ export default defineConfig({
           { text: "OpenAI Example", link: "/custom-chatbots/openai" },
           { text: "Anyscale Example", link: "/custom-chatbots/anyscale" },
           { text: "Together.ai Example", link: "/custom-chatbots/together" },
-          { text: "Mistral AI Example", link: "/custom-chatbots/mistral" },
           { text: "OpenRouter Example", link: "/custom-chatbots/openrouter" },
           { text: "Xinference Example", link: "/custom-chatbots/xinference" },
           { text: "Ollama Example", link: "/custom-chatbots/ollama" },

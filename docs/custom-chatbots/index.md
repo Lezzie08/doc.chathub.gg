@@ -15,7 +15,6 @@ Click the **Add** button to create a new custom chatbot.
 - [OpenAI](./openai)
 - [Anyscale](./anyscale)
 - [Together.ai](./together)
-- [Mistral AI](./mistral)
 - [OpenRouter](./openrouter)
 - [Xinference](./xinference)
 - [Ollama](./ollama)
