@@ -52,7 +52,8 @@ export default defineConfig({
       {
         text: "ChatHub AI Service",
         items: [
-          { text: "Models", link: "/cloud/" },
+          { text: "LLM Models", link: "/cloud/" },
+          { text: "Image Generation", link: "/cloud/image-generation" },
         ],
       },
       {
