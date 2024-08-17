@@ -2,9 +2,12 @@
 
 The Lifetime Premium plan offers users access to all premium features for a lifetime. After one-time payment, you will receive a license key to activate the app.
 
+> [!NOTE]
+> Lifetime Premium only works for the ChatHub browser extension and cannot be activated on the ChatHub Webapp.
+
 ## How to purchase
 
-You can purchase the lifetime premium from the ChatHub extension.
+You can purchase the lifetime premium from the ChatHub browser extension.
 
 ![](./lifetime-purchase.png)
 
