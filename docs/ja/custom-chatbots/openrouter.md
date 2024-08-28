@@ -10,6 +10,6 @@
 
 ![](./images/openrouter.png)
 
-We're using the `anthropic/claude-2` model in this example.
+We're using the `anthropic/claude-3.5-sonnet` model in this example.
 
 You can find all the available models from OpenRouter website: <https://openrouter.ai/docs#models>
