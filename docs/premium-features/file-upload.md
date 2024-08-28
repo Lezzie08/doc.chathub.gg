@@ -1,4 +1,4 @@
-# File Upload <Badge type="warning" text="beta" />
+# Document Upload <Badge type="warning" text="beta" />
 
 ChatHub now allows users to upload various types of documents as context for interacting with the AI model. This powerful feature allows users to provide additional context for their chats, enhancing the AI's understanding and generating more relevant responses.
 
