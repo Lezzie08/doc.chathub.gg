@@ -8,7 +8,7 @@ Get your **OpenAI API key** from <https://platform.openai.com/api-keys>.
 
 ## Configuration
 
-![](./images/openai.png)
+![](../../assets/custom-bots/openai.png)
 
 We're using the `gpt-4o` model in this example.
 

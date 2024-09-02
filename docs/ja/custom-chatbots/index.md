@@ -4,11 +4,11 @@
 
 You can configure **Custom Chatbots** in the Settings page of ChatHub.
 
-![](./images/index-settings.png)
+![](../../assets/custom-bots/index-settings.png)
 
 Click the **Add** button to create a new custom chatbot.
 
-![](./images/index-dialog.png)
+![](../../assets/custom-bots/index-dialog.png)
 
 ## Examples
 

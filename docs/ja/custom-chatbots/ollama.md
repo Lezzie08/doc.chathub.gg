@@ -8,7 +8,7 @@ Install Ollama and download models.
 
 ## Configuration
 
-![](./images/ollama.png)
+![](../../assets/custom-bots/ollama.png)
 
 We're using the `gemma2` model in this example.
 

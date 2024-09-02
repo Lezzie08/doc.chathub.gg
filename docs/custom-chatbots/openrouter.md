@@ -8,7 +8,7 @@
 
 ## Configuration
 
-![](./images/openrouter.png)
+![](../assets/custom-bots/openrouter.png)
 
 We're using the `anthropic/claude-3.5-sonnet` model in this example.
 

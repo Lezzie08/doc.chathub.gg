@@ -6,4 +6,4 @@ Chrome automatically updates extensions, but the timing of the update is not cle
 2. Enable the "Developer mode" switch.
 3. Click the "Update" button.
 
-![](update.png)
+![](../assets/update.png)

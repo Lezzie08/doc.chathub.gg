@@ -6,8 +6,8 @@ An experimental feature that allows you to obtain more up-to-date information by
 
 **Without Web Access ❌**
 
-![](./web-access-1.png)
+![](../../assets/web-access-1.png)
 
 **With Web Access: ✅**
 
-![](./web-access-2.png)
+![](../../assets/web-access-2.png)

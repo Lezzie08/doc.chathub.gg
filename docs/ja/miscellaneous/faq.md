@@ -4,4 +4,4 @@
 
 First make sure you have the ChatHub extension installed. Then follow these steps to activate with your license key.
 
-![](./activation.png)
+![](../../assets/activation.png)

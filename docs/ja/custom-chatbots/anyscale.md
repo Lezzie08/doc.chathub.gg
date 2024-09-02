@@ -6,11 +6,11 @@
 
 Sign up to Anyscale and generate an API key from <https://app.endpoints.anyscale.com/console/credentials>.
 
-![](./images/anyscale-key.png)
+![](../../assets/custom-bots/anyscale-key.png)
 
 ## Configuration
 
-![](./images/anyscale.png)
+![](../../assets/custom-bots/anyscale.png)
 
 We're using the `mistralai/Mixtral-8x7B-Instruct-v0.1` model in this example.
 

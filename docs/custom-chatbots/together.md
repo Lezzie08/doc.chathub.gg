@@ -8,7 +8,7 @@
 
 ## Configuration
 
-![](./images/together.png)
+![](../assets/custom-bots/together.png)
 
 We're using the `mistralai/Mixtral-8x7B-Instruct-v0.1` model in this example.
 
