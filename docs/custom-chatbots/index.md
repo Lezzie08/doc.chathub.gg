@@ -8,7 +8,7 @@ You can configure **Custom Chatbots** in the Settings page of ChatHub.
 
 Click the **Add** button to create a new custom chatbot.
 
-![](./images/index-dialog.png)
+![](../assets/custom-bots/index-dialog.png)
 
 ## Examples
 
