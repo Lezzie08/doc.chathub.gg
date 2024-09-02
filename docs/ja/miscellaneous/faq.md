@@ -1,7 +1,7 @@
 # FAQ
 
-## How to activate with the license key?
+## ライセンスキーでアクティベートする方法は？
 
-First make sure you have the ChatHub extension installed. Then follow these steps to activate with your license key.
+まず、ChatHub拡張機能がインストールされていることを確認してください。その後、以下の手順に従ってライセンスキーでアクティベートしてください。
 
 ![](../../assets/activation.png)
