@@ -1,36 +1,37 @@
-# Lifetime Premium
+# ライフタイムメンバーシップ
 
-The Lifetime Premium plan offers users access to all premium features for a lifetime. After one-time payment, you will receive a license key to activate the app.
+ライフタイムメンバーシップでは、ユーザーは終生にわたってすべてのプレミアム機能にアクセスできます。一度の支払いを行うと、アプリをアクティブ化するためのライセンスキーを受け取ります。
 
 > [!NOTE]
-> Lifetime Premium only works for the ChatHub browser extension and cannot be activated on the ChatHub Webapp.
+> ライフタイムメンバーシップは、ChatHubのブラウザ拡張機能でのみ使用でき、ChatHub Webappではアクティブ化できません。
 
-## How to purchase
+## 購入方法
 
-You can purchase the lifetime premium from the ChatHub browser extension.
+ChatHubのブラウザ拡張機能からライフタイムメンバーシップを購入できます。
 
 ![](../../assets/lifetime-purchase.png)
 
-## How to activate the license
+## ライセンスのアクティベーション
 
-After receiving the license key, you can activate the license from the ChatHub extension.
+ライセンスキーを受け取ったら、ChatHub拡張機能からライセンスをアクティベートできます。
 
 ![](../../assets/activation.png)
 
-## How to manage activations
+## アクティベーションの管理
 
-You can deactivate the current activation in the ChatHub extension.
+ChatHub拡張機能で現在のアクティベーションを非アクティブ化できます。
 
-We also provide a dedicated tool to view and manage all your activations:
+また、すべてのアクティベーションを表示して管理するための専用のツールも提供しています:
 https://app.chathub.gg/license-manager
 
-## What happens if I want to switch the device or browser associated with my lifetime membership?
+## デバイスまたはブラウザを変更したい場合はどうなりますか？
 
-If you wish to use your lifetime membership on a different device or browser, you can deactivate it on one device and then reactivate it on another. This process allows you to transfer your membership between devices as needed.
+あなたのライフタイムメンバーシップに関連するデバイスまたはブラウザを変更したい場合は、そのデバイスで非アクティブ化してから、別のデバイスで再アクティベートできます。このプロセスにより、必要に応じてメンバーシップをデバイス間で移行できます。
 
-## Is there a limit to how many times I can deactivate and reactivate my lifetime membership?
+## アクティベーションの回数に制限はありますか？
 
-No, there is no limit to the number of times you can deactivate and reactivate your membership. However, keep in mind that you can only have your membership active on the number of browsers corresponding to your purchased pricing tier at any given time.
+いいえ、アクティベーションの回数に制限はありません。ただし、購入した価格プランに対応するブラウザの数にのみ、メンバーシップをアクティブにできます。
 
-## How can I upgrade my lifetime membership to a higher tier?
-If you wish to upgrade your membership to a higher tier (e.g., from 1 browser to 3 browsers), please contact our customer support team. They will be happy to assist you.
+## メンバーシップをより高いTierにアップグレードするにはどうすればよいですか？
+
+あなたのメンバーシップをより高いTierにアップグレードしたい場合（例: 1ブラウザから3ブラウザに）、お問い合わせください。

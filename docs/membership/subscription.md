@@ -4,6 +4,6 @@ The subscription plan not only grants users access to all premium features but a
 
 ## How to subscribe
 
-You can subscribe to the premium membership from the ChatHub extension.
+You can subscribe to the premium membership from the ChatHub extension or webapp.
 
 ![](../assets/subscribe.png)

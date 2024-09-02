@@ -1,14 +1,14 @@
-# Premium Membership
+# メンバーシップ
 
-Although ChatHub is free to use, you can purchase a Premium membership to unlock premium features.
+ChatHubは無料で使用できますが、プレミアム機能を利用するためにはメンバーシップを購入する必要があります。
 
-There are two types of Premium membership: [**Lifetime**](./lifetime) and [**Subscription**](./subscription).
+2種類のメンバーシップがあります: [**Lifetime**](./lifetime) と [**Subscription**](./subscription).
 
-## Comparison
+## 比較
 
 |  | Lifetime | Subscription |
 |---------|----------|--------------|
-| Works with | ChatHub extension | ChatHub extension & webapp |
-| Access to ChatHub Premium features | Yes | Yes |
-| Requires own API key or accounts | Yes | No |
-| Payment model | One-time payment | Monthly or yearly payment |
+| ChatHubの拡張機能で使用可能 | はい | はい |
+| ChatHub Premium機能へのアクセス | はい | はい |
+| 独自のAPIキーまたはアカウントが必要 | はい | いいえ |
+| 支払いモデル | 1回限りの支払い | 月払いまたは年払い |
