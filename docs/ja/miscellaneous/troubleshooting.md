@@ -1,6 +1,6 @@
-# Troubleshooting
+# トラブルシューティング
 
 ## "This license key has reached the activation limit"
 
-If you see this message, it means that you have reached the maximum number of activations for your license key.
-You can remove old activations at <https://app.chathub.gg/license-manager>.
+このメッセージが表示された場合、ライセンスキーのアクティベーションの最大数に達したことを意味します。
+<https://app.chathub.gg/license-manager> で古いアクティベーションを削除してください。
