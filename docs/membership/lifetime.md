@@ -7,7 +7,7 @@ The Lifetime Premium plan offers users access to all premium features for a life
 
 ## How to purchase
 
-You can purchase the lifetime premium from the ChatHub browser extension.
+You can purchase the lifetime premium from the [ChatHub browser extension](https://chathub.gg/chrome).
 
 ![](../assets/lifetime-purchase.png)
 

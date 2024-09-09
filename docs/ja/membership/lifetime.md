@@ -7,7 +7,7 @@
 
 ## 購入方法
 
-ChatHubのブラウザ拡張機能からライフタイムメンバーシップを購入できます。
+[ChatHubのブラウザ拡張機能](https://chathub.gg/chrome)からライフタイムメンバーシップを購入できます。
 
 ![](../../assets/lifetime-purchase.png)
 
