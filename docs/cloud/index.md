@@ -8,11 +8,12 @@
 | --- | --- |
 | **GPT-4o** | OpenAI |
 | **GPT-4 Turbo** | OpenAI |
+| **o1-mini** | OpenAI |
 | **Claude 3.5 Sonnet** | Anthropic |
 | **Claude 3 Opus** | Anthropic |
 | **Llama 3.1 405B** | Meta |
 | **Gemini 1.5 Pro** | Google |
-| **Mixtral 8x22B** | Mistral |
+| **Mistral Large** | Mistral |
 | **Mistral Medium** | Mistral |
 | **Qwen 1.5 110B** | Qwen |
 | **Qwen2 72B** | Qwen |
